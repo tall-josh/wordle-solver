@@ -4,6 +4,8 @@
 
 ---
 
+[Wordle](https://www.powerlanguage.co.uk/wordle/) is word puzzle humans seem to like for some reason. Fuck knows why, word puzzles fuck with my brain. So I wrote this to help me look smart on ~~Facebook~~ Meta because we all know looking smart on social media is where it's at!.
+
 1. `poetry run python solve.py`
 2. By default will start with with *note* as the first suggestion. *Note* is a common word that contains common letters.
   - You can override it if you wish by typing a 5 letter world and hitting *enter*
