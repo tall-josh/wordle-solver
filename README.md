@@ -1,5 +1,9 @@
 # Super Dumb Wordle Solver
 
+![screenshot](screenshot.png)
+
+---
+
 1. `poetry run python solve.py`
 2. By default will start with with *note* as the first suggestion. *Note* is a common word that contains common letters.
   - You can override it if you wish by typing a 5 letter world and hitting *enter*
