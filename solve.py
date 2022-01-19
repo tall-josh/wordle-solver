@@ -94,13 +94,17 @@ def solve(df, word=None):
                     # TRUST
                     # ggggb
                     # without the if would remove the fist t from the pattern
+                    #if guess_word == "truth":
+                    #    breakpoint()
                     for idx, pat in enumerate(pattern):
-                        if pat != guess_char:
+                        if (pat != guess_char) and (guess_char not in contains):
                             pattern[idx] = pattern[idx].replace(guess_char, "")
             except Exception as e:
                 breakpoint()
                 print("-")
 
+        #if guess_word == "truth":
+        #    breakpoint()
         for char in set(contains):
             char_count = len([c for c in contains if c == char])
             _df = _df[_df.apply(lambda w: word_has_n(w, char, char_count))]
