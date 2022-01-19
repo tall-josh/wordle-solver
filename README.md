@@ -27,3 +27,11 @@
 # References
 
 - CSV data from [Rachael Tatman](https://www.kaggle.com/rtatman) on [Kaggle](https://www.kaggle.com/rtatman/english-word-frequency)  **Now used now, I use the list of words supported by wordel. I found them on reddit somewhere**
+
+# History
+
+19/01/22: Wordle 214 3/6
+
+⬜🟨⬜🟨🟨
+🟨🟨🟨⬜🟨
+🟩🟩🟩🟩🟩
