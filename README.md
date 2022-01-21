@@ -30,6 +30,8 @@
 
 # History
 
+![stats](stats.png)
+
 19/01/22: Wordle 214 3/6
 
 ⬜🟨⬜🟨🟨<br/>
