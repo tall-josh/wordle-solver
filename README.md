@@ -26,7 +26,7 @@
 
 # References
 
-- CSV data from [Rachael Tatman](https://www.kaggle.com/rtatman) on [Kaggle](https://www.kaggle.com/rtatman/english-word-frequency)  **Now used now, I use the list of words supported by wordel. I found them on reddit somewhere**
+- ~~CSV data from [Rachael Tatman](https://www.kaggle.com/rtatman) on [Kaggle](https://www.kaggle.com/rtatman/english-word-frequency)~~  **I now use the list of words supposedly supported by Wordel. I found them on reddit somewhere**
 
 # History
 
